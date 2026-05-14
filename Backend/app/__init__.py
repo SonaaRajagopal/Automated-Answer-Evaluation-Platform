@@ -1,0 +1,1 @@
+"""HawkAI FastAPI backend package."""
